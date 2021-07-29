@@ -1,0 +1,52 @@
+{
+	"compiler": {
+		"version": "0.8.6+commit.11564f7e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "change",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tests/test111.sol": "Test14"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"tests/test111.sol": {
+			"keccak256": "0x8ef4dc497d8a6a7ab1fb8c54f0cf3cd991c3063e1f76da31f19875a7a8bf1925",
+			"urls": [
+				"bzz-raw://3fcaca3f4818c82cc0bc042b9f8e60146887dd8a648954dd0775abb3fa645ba8",
+				"dweb:/ipfs/Qmc7CJL7GqxkxSfr5coA6QMriXqyJMHrC8S6DVQs98Dy7v"
+			]
+		}
+	},
+	"version": 1
+}

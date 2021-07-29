@@ -1,0 +1,71 @@
+{
+	"compiler": {
+		"version": "0.8.6+commit.11564f7e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "name",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_n",
+						"type": "string"
+					}
+				],
+				"name": "setName",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tests/test8.sol": "Test8"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"tests/test8.sol": {
+			"keccak256": "0x461ff3f7ddaa3c640d01b59c5e4144b3afa3c5009dc84e57209455dded679282",
+			"urls": [
+				"bzz-raw://4587dbab3c2ca7fe2c426a0d96a6fe9aa95634e318d7701bf476ad8598d6493a",
+				"dweb:/ipfs/QmdCNiPWmuKnroWwc6br7CCQ5zGddy8E2gz7rQB3622huX"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,52 @@
+{
+	"compiler": {
+		"version": "0.8.6+commit.11564f7e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "hack",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tests/test11.sol": "Attack"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"tests/test11.sol": {
+			"keccak256": "0xedb1a12cd996de98123a4138e50e8b9745928330164cb9b89fcfb73d701118ab",
+			"urls": [
+				"bzz-raw://59ca2b9b1aef5ab32d7ac36d25b39db5008648332714f4ff45d9914591218988",
+				"dweb:/ipfs/QmU5eFXguwVqbEWf3HRyz24SfPz129FD7orKzFimfFbuHM"
+			]
+		}
+	},
+	"version": 1
+}

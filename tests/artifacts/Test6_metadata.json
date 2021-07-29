@@ -1,0 +1,57 @@
+{
+	"compiler": {
+		"version": "0.8.6+commit.11564f7e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "payable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "destroy",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tests/thatsmine.sol": "Test6"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"tests/thatsmine.sol": {
+			"keccak256": "0x2d4368e661481c3dbddb2c3d1f63ed7cd68ce6f2a3105023bb92fb301fc638b0",
+			"urls": [
+				"bzz-raw://31f3323d78fa68b4bf11cd72617489de7339e2b9330ac4f4299447efa1d62878",
+				"dweb:/ipfs/QmUB5YrQ3FQvPdogKWmfA6VKrdYXD11HnehMa33oBxPwq7"
+			]
+		}
+	},
+	"version": 1
+}

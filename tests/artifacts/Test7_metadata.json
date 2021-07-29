@@ -1,0 +1,57 @@
+{
+	"compiler": {
+		"version": "0.8.6+commit.11564f7e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "payable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "withdraw",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tests/test7.sol": "Test7"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"tests/test7.sol": {
+			"keccak256": "0x06abd230edbeda8346fbe6cc09db9af72cfc3b8a3e510d0f2c87a502f7dc9ae7",
+			"urls": [
+				"bzz-raw://1ee8de39eb3a202b0c391ecffcabdf2d1fb8b9e4aa8e7eb7ffbc171ea665adf4",
+				"dweb:/ipfs/QmVgDSLjkZRtFwSCuoUbbhi8BgpHBBJFhYfPziGCo6CvPv"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.6+commit.11564f7e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "bool",
+						"name": "_answer",
+						"type": "bool"
+					}
+				],
+				"name": "getBlockNum",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tests/test11.sol": "test10"
+		},
+		"evmVersion": "berlin",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"tests/test11.sol": {
+			"keccak256": "0xa78819646a10b3aa223ba1a4cf3d5c8fe917ae62fff20a0f176089043eef759f",
+			"urls": [
+				"bzz-raw://81dd4448842431bafd39e900e88a157f4fa8c49284fc9130e6a002f427752dc8",
+				"dweb:/ipfs/QmaWrxvwKwoJEqPNFSM5QpJnfSN8VLKMz3fQDQxHjPXPNG"
+			]
+		}
+	},
+	"version": 1
+}
